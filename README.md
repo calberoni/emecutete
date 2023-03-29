@@ -1,6 +1,6 @@
 # emecutete
 
-##Introducción
+## Introducción
 
 La aplicación "Cliente MQTT" es una herramienta para conectarse a servidores MQTT y enviar y recibir mensajes utilizando el protocolo MQTT (Message Queuing Telemetry Transport). Esta aplicación se desarrolla utilizando varios paquetes de *Node.js*, como son *mqtt.js*, *express* y *ejs*.
 
@@ -9,11 +9,11 @@ mqtt.js es una biblioteca de cliente MQTT escrita en JavaScript que se utiliza p
 Express es un framework de aplicaciones web Node.js que proporciona una estructura robusta para crear aplicaciones web y servicios RESTful.
 ejs es un motor de plantillas que permite generar HTML dinámico utilizando JavaScript.
 
-##Instalación
+## Instalación
 
 Para utilizar la aplicación "Cliente MQTT", es necesario instalar *Node.js*, *npm*, *express*, *mqtt.js* y *ejs*. A continuación, se detallan los pasos para la instalación de estos paquetes en un sistema operativo basado en Linux.
 
-###Node.js y npm
+### Node.js y npm
 
 Para instalar *Node.js* y *npm*, se pueden seguir los siguientes pasos:
 
@@ -29,7 +29,7 @@ sudo apt install nodejs npm
 ```
 Este comando instalará la última versión estable de Node.js y npm en el sistema.
 
-###Express
+### Express
 Para instalar Express, utiliza el siguiente comando en la terminal:
 
 ```
@@ -38,7 +38,7 @@ npm install express
 Este comando instalará Express y todas sus dependencias en el proyecto.
 
 
-###mqtt.js
+### mqtt.js
 
 Para instalar *mqtt.js*, utiliza el siguiente comando en la terminal:
 ```
@@ -47,7 +47,7 @@ npm install mqtt
  
 Este comando instalará mqtt.js y todas sus dependencias en el proyecto.
 
-###ejs
+### ejs
 
 Para instalar *ejs*, utiliza el siguiente comando en la terminal:
 ```
